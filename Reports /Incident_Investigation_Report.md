@@ -2,8 +2,6 @@
 
 ## 1. Incident Overview
 
-     ## 1. Incident Overview
-
 **Incident Name:** Potential Password Spraying Activity
 
 **Environment:** Simulated Windows Authentication Lab
@@ -17,6 +15,8 @@
 **Event IDs:** 4624, 4625, 4740
 
 **Investigation Status:** Completed – Lab Simulation
+
+## 2. Executive Summary
 
 ## 2. Executive Summary
 
