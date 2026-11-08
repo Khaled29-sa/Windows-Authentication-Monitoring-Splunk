@@ -2,15 +2,22 @@
 
 ## 1. Incident Overview
 
-       | Field | Details |
-|---|---|
-| Incident Name | Potential Password Spraying Activity |
-| Environment | Simulated Windows Authentication Lab |
-| SIEM Tool | Splunk Enterprise |
-| Source IP | 203.0.113.50 |
-| Affected Accounts | 5 |
-| Event IDs | 4624, 4625, 4740 |
-| Investigation Status | Completed – Lab Simulation |
+     ## 1. Incident Overview
+
+**Incident Name:** Potential Password Spraying Activity
+
+**Environment:** Simulated Windows Authentication Lab
+
+**SIEM Tool:** Splunk Enterprise
+
+**Source IP:** `203.0.113.50`
+
+**Affected Accounts:** 5
+
+**Event IDs:** 4624, 4625, 4740
+
+**Investigation Status:** Completed – Lab Simulation
+
 ## 2. Executive Summary
 
 During the investigation, Windows authentication events were analyzed using Splunk Enterprise to identify suspicious login patterns.
