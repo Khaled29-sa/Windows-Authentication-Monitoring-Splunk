@@ -3,6 +3,7 @@
 ## 1. Incident Overview
 
        | Field | Details |
+|---|---|
 | Incident Name | Potential Password Spraying Activity |
 | Environment | Simulated Windows Authentication Lab |
 | SIEM Tool | Splunk Enterprise |
