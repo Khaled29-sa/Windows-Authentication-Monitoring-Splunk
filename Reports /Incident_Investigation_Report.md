@@ -101,8 +101,7 @@ The dashboard includes:
 - Failed login attempts by source IP and user.
 
 
-![Windows Authentication Security Monitoring](../Screenshots/Windows_Authentication_Dashboard.png)
-
+![Windows Authentication Security Monitoring](../Screenshots/Windows%20Authentication%20Security%20Monitoring.png)
 ## 9. Recommended Response Actions
 
 If similar activity were detected in a real organizational environment, the recommended actions would include:
