@@ -16,7 +16,6 @@
 
 **Investigation Status:** Completed – Lab Simulation
 
-## 2. Executive Summary
 
 ## 2. Executive Summary
 
@@ -102,7 +101,7 @@ The dashboard includes:
 - Failed login attempts by source IP and user.
 
 
-![Windows Authentication Security Monitoring](../Screenshots/Windows%20Authentication%20Security%20Monitoring.png)
+![Windows Authentication Security Monitoring](../Screenshots/Windows_Authentication_Dashboard.png)
 
 ## 9. Recommended Response Actions
 
