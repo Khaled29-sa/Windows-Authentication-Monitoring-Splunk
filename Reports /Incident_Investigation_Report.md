@@ -40,9 +40,8 @@ The source IP analysis identified `203.0.113.50` as the origin of all 15 failed 
 
 The IP targeted five different user accounts, making the activity consistent with a potential Password Spraying pattern.
 
-**[INSERT IMAGE HERE]**
 
-Image filename: `Failed_Login_Attempts_By_Source_IP.png`
+![Failed Login Attempts by Source IP](../Screenshots/Failed_Login_Attempts_By_Source_IP.png)
 
 ## 5. Successful Login Investigation
 
@@ -52,9 +51,8 @@ The successful authentication was associated with the account `ahmed`.
 
 This finding is important because a successful login occurred after the failed authentication activity. In a real environment, this would require additional investigation to determine whether the login was legitimate or potentially unauthorized.
 
-**[INSERT IMAGE HERE]**
 
-Image filename: `Successful_Login_From_Suspicious_IP.png`
+![Successful Login from Suspicious IP](../Screenshots/Successful_Login_From_Suspicious_IP.png)
 
 ## 6. Account Lockout Analysis
 
@@ -66,9 +64,8 @@ The investigation identified two locked accounts:
 
 These events indicate that the authentication failures resulted in account lockouts within the simulated environment.
 
-**[INSERT IMAGE HERE]**
 
-Image filename: `Locked_Accounts.png`
+![Locked Accounts](../Screenshots/Locked_Accounts.png)
 
 ## 7. Detection Logic and Alert Configuration
 
@@ -81,9 +78,8 @@ An alert named **Multiple Failed Login Attempts** was configured to run on a sch
 
 The thresholds were selected for this training dataset and should be adjusted according to the organization's environment and security requirements.
 
-**[INSERT IMAGE HERE]**
 
-Image filename: `Splunk_Detection_Alert.png`
+![Splunk Detection Alert](../Screenshots/Splunk_Detection_Alert.png)
 
 ## 8. Security Monitoring Dashboard
 
@@ -98,9 +94,8 @@ The dashboard includes:
 - Login activity over time.
 - Failed login attempts by source IP and user.
 
-**[INSERT IMAGE HERE]**
 
-Image filename: `Windows Authentication Security Monitoring.png`
+![Windows Authentication Security Monitoring](../Screenshots/Windows%20Authentication%20Security%20Monitoring.png)
 
 ## 9. Recommended Response Actions
 
